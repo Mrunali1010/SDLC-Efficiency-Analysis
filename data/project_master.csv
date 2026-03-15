@@ -1,0 +1,76 @@
+Project_ID,Project_Name,Business_Domain,Project_Type,Client_Type,Project_Manager_ID,Team_Size,Project_Start_Date,Project_End_Date,Project_Status,Planned_Duration_Days,Actual_Duration_Days,Delivery_Status
+HELSY001,HR Recruitment Portal,Retail,Web Application,External,PM03,8,17-05-22,11-09-22,Completed,117,117,On Time
+HELSY002,Internal HR Tool,Retail,Internal Tool,Internal,PM01,8,24-04-24,04-10-24,Completed,168,163,On Time
+HELSY003,Retail POS System,Retail,Web Application,External,PM01,4,24-02-24,08-07-24,Completed,110,135,Delayed
+HELSY004,Inventory Management System,Healthcare,Mobile Application,External,PM03,7,14-01-21,09-05-21,Completed,100,115,Delayed
+HELSY005,E-commerce Web Platform,Logistics,Web Application,External,PM03,4,29-07-21,04-11-21,Completed,83,98,Delayed
+HELSY006,Healthcare Appointment App,Logistics,Mobile Application,External,PM03,7,30-03-21,18-10-21,Completed,177,202,Delayed
+HELSY007,Healthcare Appointment App,Education,Web Application,External,PM03,7,11-07-24,04-01-25,Completed,152,177,Delayed
+HELSY008,School Management Portal,HR,Web Application,External,PM02,3,16-08-22,04-11-22,Completed,80,80,On Time
+HELSY009,Healthcare Appointment App,Education,Mobile Application,External,PM03,6,30-11-21,13-05-22,Completed,154,164,Delayed
+HELSY010,School Management Portal,HR,Mobile Application,External,PM01,8,01-06-24,07-10-24,Completed,103,128,Delayed
+HELSY011,Internal HR Tool,Healthcare,Internal Tool,Internal,PM04,4,17-02-23,21-07-23,Completed,129,154,Delayed
+HELSY012,School Management Portal,HR,Mobile Application,External,PM02,3,07-03-21,09-08-21,Completed,140,155,Delayed
+HELSY013,Finance Expense Tracker,Retail,Web Application,External,PM03,7,12-03-22,30-09-22,Completed,187,202,Delayed
+HELSY014,HR Recruitment Portal,Education,Web Application,External,PM02,5,21-05-22,14-12-22,Completed,197,207,Delayed
+HELSY015,Internal HR Tool,Finance,Mobile Application,External,PM04,7,12-01-23,08-05-23,Completed,116,116,On Time
+HELSY016,Sales Analytics Dashboard,Education,Web Application,External,PM01,3,10-11-21,05-03-22,Completed,100,115,Delayed
+HELSY017,Learning Management System,Retail,Mobile Application,External,PM04,6,20-12-23,17-05-24,Completed,124,149,Delayed
+HELSY018,Retail POS System,HR,Dashboard / Analytics,External,PM03,3,05-08-24,25-12-24,Completed,147,142,On Time
+HELSY019,Finance Expense Tracker,Education,Web Application,External,PM01,6,18-01-25,19-06-25,Completed,127,152,Delayed
+HELSY020,Logistics Tracking Dashboard,Finance,Web Application,External,PM03,8,01-08-24,03-03-25,Completed,189,214,Delayed
+HELSY021,School Management Portal,Healthcare,Mobile Application,External,PM01,4,11-05-24,15-10-24,Completed,142,157,Delayed
+HELSY022,Retail POS System,Retail,Mobile Application,External,PM02,5,29-04-21,22-09-21,Completed,121,146,Delayed
+HELSY023,Healthcare Appointment App,Retail,Dashboard / Analytics,External,PM01,6,27-12-23,28-03-24,Completed,92,92,On Time
+HELSY024,HR Recruitment Portal,Education,Dashboard / Analytics,External,PM03,4,17-12-23,02-06-24,Completed,168,168,On Time
+HELSY025,Sales Analytics Dashboard,HR,Dashboard / Analytics,External,PM03,4,29-03-23,15-09-23,Completed,155,170,Delayed
+HELSY026,Sales Analytics Dashboard,Education,Web Application,External,PM02,4,12-05-21,30-09-21,Completed,146,141,On Time
+HELSY027,Learning Management System,Finance,Web Application,External,PM02,7,15-01-21,29-03-21,Completed,78,73,On Time
+HELSY028,School Management Portal,Retail,Web Application,External,PM01,5,19-11-23,28-03-24,Completed,120,130,Delayed
+HELSY029,HR Recruitment Portal,Education,Web Application,External,PM02,7,21-01-25,21-07-25,Completed,181,181,On Time
+HELSY030,Customer Support CRM,Education,Web Application,External,PM01,3,11-09-24,10-03-25,Completed,170,180,Delayed
+HELSY031,Inventory Management System,Education,Mobile Application,External,PM01,8,11-10-24,30-12-24,Completed,85,80,On Time
+HELSY032,Inventory Management System,HR,Mobile Application,External,PM02,3,28-01-22,10-06-22,Completed,108,133,Delayed
+HELSY033,Customer Support CRM,Healthcare,Mobile Application,External,PM03,4,06-08-23,02-12-23,Completed,123,118,On Time
+HELSY034,Customer Support CRM,Finance,Web Application,External,PM01,3,11-07-21,08-11-21,Completed,120,120,On Time
+HELSY035,Inventory Management System,Education,Mobile Application,External,PM04,4,01-05-21,26-08-21,Completed,102,117,Delayed
+HELSY036,Retail POS System,Education,Mobile Application,External,PM03,6,17-05-23,17-11-23,Completed,184,184,On Time
+HELSY037,School Management Portal,Logistics,Web Application,External,PM01,3,05-10-22,13-12-22,Completed,74,69,On Time
+HELSY038,Learning Management System,Education,Dashboard / Analytics,External,PM02,7,27-04-21,29-10-21,Completed,190,185,On Time
+HELSY039,Logistics Tracking Dashboard,Retail,Dashboard / Analytics,External,PM02,3,07-04-23,31-07-23,Completed,90,115,Delayed
+HELSY040,School Management Portal,Finance,Dashboard / Analytics,External,PM01,3,09-05-23,28-11-23,Completed,193,203,Delayed
+HELSY041,Finance Expense Tracker,Healthcare,Dashboard / Analytics,External,PM03,8,04-05-22,23-09-22,Completed,127,142,Delayed
+HELSY042,Logistics Tracking Dashboard,HR,Dashboard / Analytics,External,PM04,5,10-10-22,22-12-22,Completed,78,73,On Time
+HELSY043,Customer Support CRM,Finance,Dashboard / Analytics,External,PM01,3,07-01-24,25-05-24,Completed,114,139,Delayed
+HELSY044,Finance Expense Tracker,Healthcare,Mobile Application,External,PM02,3,27-01-23,08-06-23,Completed,132,132,On Time
+HELSY045,Customer Support CRM,Finance,Dashboard / Analytics,External,PM01,5,29-09-24,07-02-25,Completed,136,131,On Time
+HELSY046,Logistics Tracking Dashboard,Logistics,Web Application,External,PM02,3,12-07-22,16-12-22,Completed,132,157,Delayed
+HELSY047,School Management Portal,HR,Mobile Application,External,PM03,4,02-11-23,15-05-24,Completed,185,195,Delayed
+HELSY048,Retail POS System,Retail,Dashboard / Analytics,External,PM03,6,01-04-21,10-06-21,Completed,60,70,Delayed
+HELSY049,Logistics Tracking Dashboard,HR,Mobile Application,External,PM04,4,04-02-24,16-08-24,Completed,169,194,Delayed
+HELSY050,Retail POS System,Retail,Web Application,External,PM02,8,23-01-24,11-04-24,Completed,69,79,Delayed
+HELSY051,Learning Management System,Finance,Web Application,External,PM02,6,27-03-21,22-08-21,Completed,138,148,Delayed
+HELSY052,Retail POS System,Logistics,Web Application,External,PM02,8,27-09-24,01-01-25,Completed,86,96,Delayed
+HELSY053,Sales Analytics Dashboard,Education,Dashboard / Analytics,External,PM02,8,30-04-22,09-08-22,Completed,101,101,On Time
+HELSY054,Inventory Management System,Retail,Web Application,External,PM03,8,24-04-23,04-09-23,Completed,123,133,Delayed
+HELSY055,Logistics Tracking Dashboard,HR,Web Application,External,PM01,6,22-08-23,16-12-23,Completed,116,116,On Time
+HELSY056,Customer Support CRM,Logistics,Mobile Application,External,PM02,4,18-02-21,22-06-21,Completed,109,124,Delayed
+HELSY057,E-commerce Web Platform,Logistics,Web Application,External,PM03,5,06-08-24,27-02-25,Completed,190,205,Delayed
+HELSY058,HR Recruitment Portal,Finance,Mobile Application,External,PM01,3,19-06-22,27-10-22,Completed,105,130,Delayed
+HELSY059,Finance Expense Tracker,Retail,Web Application,External,PM04,7,09-12-22,13-05-23,Completed,140,155,Delayed
+HELSY060,Learning Management System,Finance,Web Application,External,PM02,6,06-06-22,31-08-22,Completed,71,86,Delayed
+HELSY061,Retail POS System,Finance,Dashboard / Analytics,External,PM02,8,16-01-23,30-06-23,Completed,170,165,On Time
+HELSY062,HR Recruitment Portal,Logistics,Dashboard / Analytics,External,PM01,5,14-01-25,24-06-25,Completed,136,161,Delayed
+HELSY063,Finance Expense Tracker,HR,Mobile Application,External,PM04,5,28-11-24,07-05-25,Completed,135,160,Delayed
+HELSY064,Logistics Tracking Dashboard,Healthcare,Mobile Application,External,PM04,8,19-10-24,25-02-25,Completed,104,129,Delayed
+HELSY065,Learning Management System,Logistics,Mobile Application,External,PM01,7,15-09-22,26-01-23,Completed,133,133,On Time
+HELSY066,Inventory Management System,Finance,Dashboard / Analytics,External,PM03,8,11-08-23,15-02-24,Completed,173,188,Delayed
+HELSY067,HR Recruitment Portal,Healthcare,Dashboard / Analytics,External,PM02,6,11-09-24,11-12-24,Completed,81,91,Delayed
+HELSY068,Sales Analytics Dashboard,HR,Dashboard / Analytics,External,PM03,7,11-07-21,18-11-21,Completed,120,130,Delayed
+HELSY069,School Management Portal,Healthcare,Web Application,External,PM01,3,17-05-22,09-12-22,Completed,181,206,Delayed
+HELSY070,Healthcare Appointment App,Education,Mobile Application,External,PM02,8,11-01-25,03-07-25,Completed,158,173,Delayed
+HELSY071,Inventory Management System,Healthcare,Web Application,External,PM01,8,07-08-21,22-01-22,Completed,168,168,On Time
+HELSY072,Logistics Tracking Dashboard,HR,Dashboard / Analytics,External,PM01,6,16-02-24,13-06-24,Completed,123,118,On Time
+HELSY073,Customer Support CRM,Healthcare,Mobile Application,External,PM03,8,26-06-23,16-01-24,Completed,189,204,Delayed
+HELSY074,Sales Analytics Dashboard,Education,Web Application,External,PM04,8,11-07-23,14-11-23,Completed,126,126,On Time
+HELSY075,HR Recruitment Portal,Logistics,Dashboard / Analytics,External,PM02,6,17-07-22,31-12-22,Completed,172,167,On Time
